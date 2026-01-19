@@ -91,13 +91,6 @@ My philosophy: Every challenge is an opportunity to learn, every bug is a lesson
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MDUnit64&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MDUnit64&layout=compact&theme=radical)
-
----
 
 ## 🌟 Current Focus
 
